@@ -116,5 +116,3 @@ breast-cancer-ml-classification/
 ## Publishing
 
 Follow `PUBLISHING.md` to create this as its own GitHub repository. GitHub publication requires your own authenticated account.
-
-**Integrity:** This is an independent academic project (2026), not evidence of a verified 2025 graded course project.
