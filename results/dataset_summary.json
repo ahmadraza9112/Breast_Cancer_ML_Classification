@@ -1,0 +1,22 @@
+{
+  "dataset": "Wisconsin Diagnostic Breast Cancer (scikit-learn built-in)",
+  "samples": 569,
+  "features": 30,
+  "malignant_positive_class": 1,
+  "malignant_samples": 212,
+  "benign_samples": 357,
+  "train_n": 455,
+  "test_n": 114,
+  "train_malignant": 170,
+  "test_malignant": 42,
+  "random_seed": 42,
+  "test_fraction": 0.2,
+  "cv_folds": 5,
+  "pca_train_components_95percent": 10,
+  "selected_model": "Logistic Regression",
+  "python_version": "3.13.5",
+  "scikit_learn_version": "1.8.0",
+  "feature_scaling_and_PCA_within_CV_pipelines": true,
+  "test_reserved_until_selection": true,
+  "patient_level_splits_verified": false
+}

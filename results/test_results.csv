@@ -1,0 +1,2 @@
+test_n,accuracy,balanced_accuracy,roc_auc,precision_malignant,recall_malignant_sensitivity,f1_malignant,specificity_benign,true_benign,false_malignant,missed_malignant,correct_malignant,selected_model
+114,0.9649122807017544,0.9573412698412699,0.996031746031746,0.975,0.9285714285714286,0.9512195121951219,0.9861111111111112,71,1,3,39,Logistic Regression

@@ -1,0 +1,15 @@
+{
+  "test_n": 114,
+  "accuracy": 0.9649122807017544,
+  "balanced_accuracy": 0.9573412698412699,
+  "roc_auc": 0.996031746031746,
+  "precision_malignant": 0.975,
+  "recall_malignant_sensitivity": 0.9285714285714286,
+  "f1_malignant": 0.9512195121951219,
+  "specificity_benign": 0.9861111111111112,
+  "true_benign": 71,
+  "false_malignant": 1,
+  "missed_malignant": 3,
+  "correct_malignant": 39,
+  "selected_model": "Logistic Regression"
+}
