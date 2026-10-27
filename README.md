@@ -1,9 +1,6 @@
 # Breast Cancer Classification with Classical Machine Learning
 
 
-> **GitHub + Kaggle** — This repository contains a self-contained notebook originally prepared for Kaggle: [`notebooks/Breast_Cancer_Classification_Kaggle.ipynb`](notebooks/Breast_Cancer_Classification_Kaggle.ipynb). The same experiment can also be reproduced locally with `python run.py`. If your final Kaggle version has newer changes, export it and replace this file before publishing. Add the public Kaggle link once available.
-
-**Independent academic project (2026)** — introductory supervised learning and dimensionality reduction.
 
 Compare **Logistic Regression** and **radial-basis-function Support Vector Machine (RBF SVM)** with and without **Principal Component Analysis (PCA)** using a public, pre-extracted biomedical dataset. The full experiment runs on a CPU in a few seconds and requires **no dataset download and no GPU**.
 
@@ -112,7 +109,3 @@ breast-cancer-ml-classification/
 - The dataset is small and relatively separable; results do not show robustness on new hospitals, devices, or populations.
 - A 114-sample holdout yields uncertain estimates, and **three malignant cases were missed**.
 - No hyperparameter search, probability calibration, additional external validation, or clinical deployment has been conducted. No diagnosis or treatment decisions should use the model.
-
-## Publishing
-
-Follow `PUBLISHING.md` to create this as its own GitHub repository. GitHub publication requires your own authenticated account.
